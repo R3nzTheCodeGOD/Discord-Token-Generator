@@ -11,8 +11,6 @@
 
 ## How does it work
 
----
-
 <img width=550 align="right" src="https://images-ext-1.discordapp.net/external/daqtkfm2MQZAiBpqC7jNZ6ZCKKpJ6e9MaSfCHcbDDFA/https/i.imgur.com/7WdehGn.png?width=992&height=488">
 
 A discord token basically consists of 3 parts.
@@ -25,7 +23,6 @@ The first of these, the userid part, can be simply created and you will find the
 
 
 ### let's calculate
----
 
 Let's do some math for this and find out in how many tries we will find the user token for sure.
 
